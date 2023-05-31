@@ -10,7 +10,6 @@ public class Main {
 
         // Icinde userler haqqinda melumati saxlayan list yaradiriq
         List<User> users = new ArrayList<>();
-        //tnthkmrlh,hbmgmkhbflb.
         // Daxil olanadək baş verən proseslər
         while(true) {
             System.out.println();
